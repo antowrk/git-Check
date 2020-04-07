@@ -6,3 +6,5 @@ I am new to GIT:
 I am checking how commit works
 
 Thank You:)
+
+Now Check for a Seperate Branch
