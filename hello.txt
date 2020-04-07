@@ -1,3 +1,6 @@
 Welcome!!!NOOB!!!
 
 Just checking how GIT works;
+
+I am new to GIT:
+I am checking how commit works
