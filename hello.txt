@@ -8,3 +8,5 @@ I am checking how commit works
 Thank You:)
 
 Now Check for a Seperate Branch
+
+A new commit to New Branch
